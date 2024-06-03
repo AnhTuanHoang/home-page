@@ -2,7 +2,7 @@ import React from "react";
 import Page from "../common/Page";
 
 
-function Offshore() {
+function WhyUs() {
     return (
         <Page
             content={
@@ -16,4 +16,4 @@ function Offshore() {
     );
 }
 
-export default Offshore;
+export default WhyUs;
